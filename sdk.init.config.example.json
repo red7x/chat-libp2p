@@ -1,0 +1,12 @@
+{
+    "package_id": "com.example.chat_libp2p",
+    "private_key": "0be5fa966e7d24005bf5a1eb7f794b11vfc57f6d43e169c24dcd9e7ebf19a818",
+    "bootstrap": [
+        "/ip4/135.1.0.224/udp/8715/quic-v1/p2p/16Uiu2HAm6kFgGJKd1iSKqUKs1VitrhYEm9bErbe4Q7R9YHvHzhcQ",
+        "/ip4/25.23.14.1/udp/8715/quic-v1/p2p/16Uiu2HAmPXjDd5MREv17jhCQ1Xh2K3uotQYRpSV4aKzpErSPZkQg",
+        "/ip4/210.11.94.5/udp/8715/quic-v1/p2p/16Uiu2HAmK7TnMBSB54oSGR8Fh9PNZDK8htXNExRptJC9pBjc2Kup",
+        "/ip4/77.13.5.220/udp/8715/quic-v1/p2p/16Uiu2HAmCoRghiev61ZmLkJ6ZyKfg6WNLh5Q91Q9CLzqVxxGGw1N"
+    ],
+    "data_dir": "/data/data/com.example.chat_libp2p/files",
+    "cache_dir": "/data/data/com.example.chat_libp2p/cache"
+}

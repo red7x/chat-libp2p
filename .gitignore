@@ -1,0 +1,9 @@
+cmd/test
+/test
+/client
+/server
+*.jar
+*.aar
+*.txt
+*.exe
+*.log
